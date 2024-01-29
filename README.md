@@ -1,11 +1,8 @@
 
 
-<img width='100px' display='block' margin='auto' src='images/Bow5.jpg' alt='Ships Bow' />
+<img align='center' width='150px' display='block' src='images/Bow5.jpg' alt='Ships Bow' />
 
 
-
-
-<div width='200px' height='auto' background-image='url("./images/Bow5.jpg")' ></div>
 
 <h1>Ben Rehmann</h1>
 
