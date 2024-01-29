@@ -23,7 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barbedstingray&show_icons=true&locale=en" alt="barbedstingray" /></p>
 
-
+<div align='center'>
+![Visitor Count](https://profile-counter.glitch.me/barbedStingray/count.svg)
+</div>
 
 
 <!--
