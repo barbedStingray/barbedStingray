@@ -5,7 +5,7 @@
 
 
 
-<div width='200px' height='auto' background-image: url('./images/Bow5.jpg') ></div>
+<div width='200px' height='auto' background-image='url("./images/Bow5.jpg")' ></div>
 
 <h1>Ben Rehmann</h1>
 
