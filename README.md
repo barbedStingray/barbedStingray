@@ -1,6 +1,6 @@
 
 
-<img align='center' width='150px' display='block' src='images/Bow5.jpg' alt='Ships Bow' />
+<img align='center' width='150px' src='images/Bow5.jpg' alt='Ships Bow' />
 
 
 
