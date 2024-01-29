@@ -23,7 +23,7 @@
 
 <br />
 
-<p align='center'>
+<p align='center' >
   Life on islands, training stingrays, driving dogs cross country, lifting manatees, digging ship harbors, building underwater coral nurseries, entertaining cruise ships, surviving hurricanes, avoiding social media, and now building software.
 </p>
 
