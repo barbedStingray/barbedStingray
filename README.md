@@ -1,8 +1,7 @@
-### Hi there 👋
 
+<h1>Ben Rehmann</h1>
 
-<h1 align="center">Hi 👋, I'm Ben Rehmann</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">Traveler, exploerer and software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbedstingray&label=Profile%20views&color=0e75b6&style=flat" alt="barbedstingray" /> </p>
 
@@ -25,7 +24,7 @@
 
 <div align='center'>
   
-![Visitor Count] (https://profile-counter.glitch.me/barbedStingray/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/barbedStingray/count.svg)
 
 </div>
 
