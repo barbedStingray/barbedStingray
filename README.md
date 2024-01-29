@@ -21,15 +21,22 @@
   <img align='center' width='150px' src='images/Island29.jpg' alt='Bahama Beach' />
 </div>
 
+<br />
+
+<p align='center'>
+  Life on islands, training stingrays, driving dogs cross country, lifting manatees, digging ship harbors, building underwater coral nurseries, entertaining cruise ships, surviving hurricanes, avoiding social media, and now building software.
+</p>
+
+<h3 align="center">Connect</h3>
+<p align="center">
+</p>
+
 - 🌱 I’m currently learning **Next.js and Typescript**
 
 - 💬 Ask me about **CSS and Javascript**
 
 - 📫 How to reach me **brehmann@me.com**
 
-<h3 align="center">Connect</h3>
-<p align="center">
-</p>
 
 
 
