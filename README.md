@@ -1,7 +1,7 @@
 
 <h1>Ben Rehmann</h1>
 
-<h3 align="center">Traveler, exploerer and software developer.</h3>
+<h3 align="center">Traveler, explorer and software developer.</h3>
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
