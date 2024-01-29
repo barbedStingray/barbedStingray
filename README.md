@@ -3,8 +3,6 @@
 
 <h3 align="center">Traveler, exploerer and software developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barbedstingray&label=Profile%20views&color=0e75b6&style=flat" alt="barbedstingray" /> </p>
-
 - 🌱 I’m currently learning **Next.js and Typescript**
 
 - 💬 Ask me about **CSS and Javascript**
