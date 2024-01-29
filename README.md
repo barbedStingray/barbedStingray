@@ -35,7 +35,7 @@
 
 <p align='center'>brehmann@me.com</p>
 
-<p align='center'><a href='www.linkedin.com/in/ben-rehmann-804212297'>LinkedIn</a></p>
+<p align='center'><a href='[www.linkedin.com/in/ben-rehmann-804212297](https://www.linkedin.com/in/ben-rehmann-804212297)'>LinkedIn</a></p>
 
 <br />
 
