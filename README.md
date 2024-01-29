@@ -27,18 +27,17 @@
   Life on islands, training stingrays, driving dogs cross country, lifting manatees, digging ship harbors, building underwater coral nurseries, entertaining cruise ships, surviving hurricanes, avoiding social media, and now building software.
 </p>
 
+<br />
+
 <h3 align="center">Connect</h3>
 <p align="center">
 </p>
 
-- 🌱 I’m currently learning **Next.js and Typescript**
+<p align='center'>brehmann@me.com</p>
 
-- 💬 Ask me about **CSS and Javascript**
+<p align='center'><a href='www.linkedin.com/in/ben-rehmann-804212297'>LinkedIn</a></p>
 
-- 📫 How to reach me **brehmann@me.com**
-
-
-
+<br />
 
 <h3 align="center">Familiar Tech</h3>
 <br />
@@ -48,11 +47,6 @@
 
 <p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbedstingray&show_icons=true&locale=en&layout=compact" alt="barbedstingray" /> </p>
 
-<br />
-
-<div align='center'>
-![Visitor Count](https://profile-counter.glitch.me/barbedStingray/count.svg)
-</div>
 
 
 
@@ -60,6 +54,12 @@
 **barbedStingray/barbedStingray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+// view counter
+<div align='center'>
+![Visitor Count](https://profile-counter.glitch.me/barbedStingray/count.svg)
+</div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Next.js
