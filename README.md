@@ -1,5 +1,8 @@
 
 <img width='400px' display='block' margin='auto' src='images/Bow5.jpg' alt='Ships Bow' />
+
+<div width='200px' height='auto' background-image: url('images/Bow5.jpg') ></div>
+
 <h1>Ben Rehmann</h1>
 
 <h3 align="center">Traveler, explorer and software developer.</h3>
