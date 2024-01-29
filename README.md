@@ -1,4 +1,5 @@
 
+<img width='400px' display='block' margin='auto' src='images/Bow5.jpg' alt='Ships Bow' />
 <h1>Ben Rehmann</h1>
 
 <h3 align="center">Traveler, explorer and software developer.</h3>
