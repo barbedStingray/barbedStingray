@@ -14,11 +14,11 @@
 <br />
 
 <div display='flex' flex-wrap='wrap' justify-content='center' align='center'>
-  <img align='center' width='150px' src='images/Bow5.jpg' alt='Ships Bow' />
-  <img align='center' width='150px' src='images/Bones8.jpg' alt='Alaska Bones' />
-  <img align='center' width='150px' src='images/BubbleRings1.jpg' alt='Underwater Rings' />
-  <img align='center' width='150px' src='images/HobbitHole.jpg' alt='Hobbiton' />
-  <img align='center' width='150px' src='images/LLHike4.jpg' alt='Winter Wonderland' />
+  <img align='center' width='150px' src='images/Bingin5.jpg' alt='Beach Cliff' />
+  <img align='center' width='150px' src='images/IceFieldsParkway3.jpg' alt='Canada Cold' />
+  <img align='center' width='150px' src='images/Sahara7.jpg' alt='Sahara Desert' />
+  <img align='center' width='150px' src='images/LotusLake.jpg' alt='Lotus Lake' />
+  <img align='center' width='150px' src='images/Island29.jpg' alt='Bahama Beach' />
 </div>
 
 - 🌱 I’m currently learning **Next.js and Typescript**
