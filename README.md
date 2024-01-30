@@ -13,16 +13,6 @@
 
 <br />
 
-<div display='flex' flex-wrap='wrap' justify-content='center' align='center'>
-  <img align='center' width='150px' src='images/Bingin5.jpg' alt='Beach Cliff' />
-  <img align='center' width='150px' src='images/IceFieldsParkway3.jpg' alt='Canada Cold' />
-  <img align='center' width='150px' src='images/Sahara7.jpg' alt='Sahara Desert' />
-  <img align='center' width='150px' src='images/LotusLake.jpg' alt='Lotus Lake' />
-  <img align='center' width='150px' src='images/Island29.jpg' alt='Bahama Beach' />
-</div>
-
-<br />
-
 <p align='center' >
   Life on islands, training stingrays, driving dogs cross country, lifting manatees, digging ship harbors, building underwater coral nurseries, entertaining cruise ships, surviving hurricanes, avoiding social media, and now building software.
 </p>
@@ -54,6 +44,14 @@
 **barbedStingray/barbedStingray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<div display='flex' flex-wrap='wrap' justify-content='center' align='center'>
+  <img align='center' width='150px' src='images/Bingin5.jpg' alt='Beach Cliff' />
+  <img align='center' width='150px' src='images/IceFieldsParkway3.jpg' alt='Canada Cold' />
+  <img align='center' width='150px' src='images/Sahara7.jpg' alt='Sahara Desert' />
+  <img align='center' width='150px' src='images/LotusLake.jpg' alt='Lotus Lake' />
+  <img align='center' width='150px' src='images/Island29.jpg' alt='Bahama Beach' />
+</div>
 
 // view counter
 <div align='center'>
