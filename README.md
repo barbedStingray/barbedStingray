@@ -1,10 +1,10 @@
 
 <div display='flex' flex-wrap='wrap' justify-content='center' align='center'>
-  <img align='center' width='150px' src='images/Bow5.jpg' alt='Ships Bow' />
-  <img align='center' width='150px' src='images/Bones8.jpg' alt='Alaska Bones' />
-  <img align='center' width='150px' src='images/BubbleRings1.jpg' alt='Underwater Rings' />
-  <img align='center' width='150px' src='images/HobbitHole.jpg' alt='Hobbiton' />
-  <img align='center' width='150px' src='images/LLHike4.jpg' alt='Winter Wonderland' />
+
+  <img align='center' width='200px' src='images/Island29.jpg' alt='Bahama Beach' />
+  <img align='center' width='200px' src='images/BubbleRings1.jpg' alt='Underwater Rings' />
+  <img align='center' width='200px' src='images/Bones8.jpg' alt='Alaska Bones' />
+
 </div>
 
 <h1 align='center' >Ben Rehmann</h1>
@@ -50,7 +50,9 @@ Here are some ideas to get you started:
   <img align='center' width='150px' src='images/IceFieldsParkway3.jpg' alt='Canada Cold' />
   <img align='center' width='150px' src='images/Sahara7.jpg' alt='Sahara Desert' />
   <img align='center' width='150px' src='images/LotusLake.jpg' alt='Lotus Lake' />
-  <img align='center' width='150px' src='images/Island29.jpg' alt='Bahama Beach' />
+  <img align='center' width='150px' src='images/HobbitHole.jpg' alt='Hobbiton' />
+  <img align='center' width='150px' src='images/LLHike4.jpg' alt='Winter Wonderland' />
+  <img align='center' width='150px' src='images/Bow5.jpg' alt='Ships Bow' />
 </div>
 
 // view counter
